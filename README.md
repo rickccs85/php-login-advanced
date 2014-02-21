@@ -60,7 +60,7 @@ Live demo **[here](http://php-login.net/demo3.html)**, live demo's phpinfo(). **
 * 5. change the URL part of EMAIL_PASSWORDRESET_URL and EMAIL_VERIFICATION_URL in `config/config.php` to your URL! You need to provide the URL of your project here to link to your project from within
 verification/password reset mails.
 * 6. as this version uses email sending, you'll need to a) provide an SMTP account in the config OR b) install a mail server tool on your server.
-Using a real SMTP provider (like SMTP2GO etc.) is highly recommended. Sending emails manually via mail() is something for hardcore admins.
+Using a real SMTP provider (like [SMTP2GO](http://www.smtp2go.com/?s=devmetal) etc.) is highly recommended. Sending emails manually via mail() is something for hardcore admins.
 Usually mails sent via mail() will never reach the receiver. Please also don't try weird Gmail setups, this can fail to a lot of reasons.
 Get professional and send mails like mail should be sent. It's extremely cheap and works.
 

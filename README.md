@@ -87,6 +87,12 @@ Have a look here for full explanaition: https://support.google.com/mail/answer/1
 2. "SMTP data quota exceeded": gmail blocks you because you have sent more than 500 mails per day (?) or because your users have provided
  too much fake email addresses. The only way to get around this is renting professional SMTP mail sending, prices are okay, 10.000 mails for $5.
 
+## Security notice
+
+This script comes with a handy .htaccess in the views folder that denies direct access to the files within the folder
+(so that people cannot render the views directly). However, these .htaccess files only work if you have set
+`AllowOverride` to `All` in your apache vhost configs. There are lots of tutorials on the web on how to do this.
+
 ## How this script works
 
 If you look into the code and at the file/folder-structure everything should be self-explaining.

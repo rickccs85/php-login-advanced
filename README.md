@@ -10,7 +10,7 @@ functions available in those versions too).
 Follow the project on **[Twitter](https://twitter.com/simplephplogin)**,
 **[Facebook](https://www.facebook.com/pages/PHP-Login-Script/461306677235868)** or
 **[Google+](https://plus.google.com/104110071861201951660)** and have a look on the official support blog
-**[Dev Metal](http://www.dev-metal.com)**. Ask questions in the [Official Support Forum](http://109.75.177.79/forum/).
+**[Dev Metal](http://www.dev-metal.com)**. Ask questions in the [Official Support Forum](http://support-forum.php-login.net/).
 
 **This script is part of the php-login project, a collection of 4 different login scripts**.
 See [php-login.net](http://www.php-login.net) for more info.
@@ -38,7 +38,7 @@ look into https://github.com/panique/php-login for the latest stable version and
 
 ## Live-demo
 
-Live demo **[here](http://php-login.net/demo3.html)**, live demo's phpinfo(). **[here](http://109.75.177.79:80/)**
+Live demo **[here](http://php-login.net/demo3.html)**, live demo's phpinfo(). **[here](http://phpinfo.php-login.net/)**
 
 ## Requirements
 

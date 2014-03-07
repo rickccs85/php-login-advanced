@@ -97,8 +97,6 @@ This script comes with a handy .htaccess in the views folder that denies direct 
 
 If you look into the code and at the file/folder-structure everything should be self-explaining.
 
-TODO: Can somebody create a written, recorded or info-graphic-like explanation on how this php-login script works, inside out ?
-
 *Please note: This version is not maintained anymore. The php-login project will focus on developing the
 [Professional MVC Version](https://github.com/panique/php-login) and highly recommends you to also use that version.*
 
@@ -123,6 +121,8 @@ private or commercial projects.
 
 ## Contribute
 
+This script is not developed any further, so only commit bugfixes, not new features.
+If you want to add new features etc, please contribute into the https://github.com/panique/php-login repo.
 Please commit only in *develop* branch. The *master* branch will always contain the stable version.
 
 ## Support / Donate

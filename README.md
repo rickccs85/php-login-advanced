@@ -7,9 +7,6 @@ mail sending via PHPMailer (SMTP or PHP's mail() function/linux sendmail). Uses 
 BLOWFISH hashing/salting functions (includes the official PHP 5.3 & PHP 5.4 compatibility pack, which makes those
 functions available in those versions too).
 
-**This script is part of the php-login project, a collection of 4 different login scripts**.
-See [php-login.net](http://www.php-login.net) for more info.
-
 **Please also note: This version is not maintained anymore. The php-login project will focus on developing the
 [Professional MVC Version](https://github.com/panique/php-login) and highly recommends you to also use that version.**
 
@@ -17,6 +14,9 @@ Follow the project on **[Twitter](https://twitter.com/simplephplogin)**,
 **[Facebook](https://www.facebook.com/pages/PHP-Login-Script/461306677235868)** or
 **[Google+](https://plus.google.com/104110071861201951660)** and have a look on the official support blog
 **[Dev Metal](http://www.dev-metal.com)**. Ask questions in the [Official Support Forum](http://support-forum.php-login.net/).
+
+**This script is part of the php-login project, a collection of 4 different login scripts**.
+See [php-login.net](http://www.php-login.net) for more info.
 
 1. **One-file version:** Full login script in one file. Uses a one-file SQLite database (no MySQL needed) and PDO.
    Features: Register, login, logout.

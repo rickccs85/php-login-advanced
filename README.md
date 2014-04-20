@@ -7,6 +7,8 @@ mail sending via PHPMailer (SMTP or PHP's mail() function/linux sendmail). Uses 
 BLOWFISH hashing/salting functions (includes the official PHP 5.3 & PHP 5.4 compatibility pack, which makes those
 functions available in those versions too).
 
+[![Donate with PayPal banner](http://www.dev-metal.com/donate-with-paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5YLUK4MW3LDG)
+
 **Please also note: This version is not maintained anymore. The php-login project will focus on developing the
 [Professional MVC Version](https://github.com/panique/php-login) and highly recommends you to also use that version.**
 

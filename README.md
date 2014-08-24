@@ -9,7 +9,7 @@ functions available in those versions too).
 
 [![Donate with PayPal banner](http://www.dev-metal.com/donate-with-paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5YLUK4MW3LDG)
 
-[![Donate with Flattr banner]((http://www.dev-metal.com/donate-with-flattr.png)](https://flattr.com/submit/auto?user_id=panique&url=https%3A%2F%2Fgithub.com%2Fpanique%2Fphp-login-advanced)
+[![Donate with Flattr banner](http://www.dev-metal.com/donate-with-flattr.png)](https://flattr.com/submit/auto?user_id=panique&url=https%3A%2F%2Fgithub.com%2Fpanique%2Fphp-login-advanced)
 
 **Please also note: This version is not maintained anymore. The php-login project will focus on developing the
 [Professional MVC Version](https://github.com/panique/php-login) and highly recommends you to also use that version.**
